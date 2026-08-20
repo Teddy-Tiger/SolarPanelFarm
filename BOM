@@ -1,0 +1,16 @@
+1× 13W–20W 12V Monocrystalline Solar Panel
+1× 5A 12V Solar Charge Controller
+2× 18650 Rechargeable Batteries
+1× 2-Cell 18650 Battery Holder
+1× 5V Buck Converter (or USB Output Module)
+1× Toggle Power Switch
+1× Arduino Nano V3 (ATmega328P)
+1× 0.96" OLED Display (I2C SSD1306)
+4× LDR Light Sensors (preferably 4-pin analog modules)
+4× 10kΩ Resistors (if using bare LDRs)
+1× Breadboard
+1× Jumper Wire Kit
+2× MG996R Metal Gear Servos
+1× MG996R-Compatible Pan-Tilt Bracket
+Soldering iron
+Solder
