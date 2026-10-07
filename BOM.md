@@ -23,7 +23,7 @@
 | [Servo Metal Gear](https://www.aliexpress.com/item/1005011712115377.html?spm=a2g0o.cart.0.0.12e638daNtQQaG&mp=1&pdp_npi=6%40dis%21CAD%21CAD+32.63%21CAD+15.99%21%21CAD+15.99%21%21%21%402103117b17913417387572578e0d0b%2112000056408220002%21ct%21CA%216502445694%21%211%210%21#nav-description) | To allow the solar panel to rotate | 1 | $15.99 | $15.99 | [Mitoot RC Hobby Store](https://www.aliexpress.com/item/1005011712115377.html?spm=a2g0o.cart.0.0.12e638daNtQQaG&mp=1&pdp_npi=6%40dis%21CAD%21CAD+32.63%21CAD+15.99%21%21CAD+15.99%21%21%21%402103117b17913417387572578e0d0b%2112000056408220002%21ct%21CA%216502445694%21%211%210%21#nav-description) |
 | [Photoresistor Light Sensor](https://www.aliexpress.com/item/1005012784371233.html?spm=a2g0o.cart.0.0.12e638daNtQQaG&mp=1&pdp_npi=6%40dis%21CAD%21CAD+2.39%21CAD+2.39%21%21CAD+2.39%21%21%21%402103117b17913417407822660e0d0b%2112000059368436525%21ct%21CA%216502445694%21%211%210%21) | To detect the sun's position | 1 | $2.39 | $2.39 | [UWY Authorization Store](https://www.aliexpress.com/item/1005012784371233.html?spm=a2g0o.cart.0.0.12e638daNtQQaG&mp=1&pdp_npi=6%40dis%21CAD%21CAD+2.39%21CAD+2.39%21%21CAD+2.39%21%21%21%402103117b17913417407822660e0d0b%2112000059368436525%21ct%21CA%216502445694%21%211%210%21) |
 | **Parts subtotal** | — | — | — | **$96.78** | — |
-| **Tax & shipping** | — | — | — | **$4.30** | — |
-| **Total** | — | — | — | **$101.08** | — |
+| **Tax & shipping** | — | — | — | **$4.15** | — |
+| **Total** | — | — | — | **$100.93** | — |
 
-**$1.08 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$0.93 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
